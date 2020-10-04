@@ -1,4 +1,4 @@
-def areaRectangle(length, breadth):
+def areaRectangle(length, breadth = 0):
     '''
     objective: to compute the area of rectangle
     input parameters:
